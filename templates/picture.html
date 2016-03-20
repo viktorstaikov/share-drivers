@@ -1,0 +1,60 @@
+	<section id="banner" class="wrapper style1" ng-controller="ViralController">
+				<div class="inner">
+					<article class="feature left">
+						<div class="image relative">
+							<img id="viralPic" data-src={{driver.Picture}} data-responsive="true" >
+							<div class="absolute img_descr">
+								<div class="reg_nr">{{driver.LicensePlate}}</div>
+								<div class="img_clock">
+									<i class="fa fa-clock-o"></i><span>{{driver.CreatedAt | date :"mediumDate"}}</span>
+								</div>	
+								<div class="img_report">
+									<i class="fa fa-bullhorn"></i><span>{{driver.Rating || 0}}</span>
+								</div>
+								<div class="img_views">
+									<i class="fa fa-eye"></i><span>{{driver.ViewCounter || 0}}</span>
+								</div>						
+							</div>
+							<div class="absolute user_comment">
+								<p><i class="fa fa-quote-right fa-2x"></i> <span>{{driver.Title}}</span> <i class="fa fa-quote-left fa-2x"></i></p>	
+							</div>	
+						</div>
+						<div class="content">
+							<p id="narusheniq">Извършени нарушения:</p>
+							<ul>
+								<li ng-repeat="tagName in driver.SelectedTags">{{tagName}}</li>
+							</ul>
+							<!--<div id="oceni">
+								<p>Оцени:</p>
+								<ul class="rating nostar">
+									<li id="one" class="lautsprecher"><a href="#" title="1 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+									<li id="two" class="lautsprecher"><a href="#" title="2 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+									<li id="three" class="lautsprecher"><a href="#" title="3 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+									<li id="four" class="lautsprecher"><a href="#" title="4 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+									<li id="five" class="lautsprecher"><a href="#" title="5 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+								</ul>
+							</div>-->
+							<div id="izvini-se">
+								<p>Помогни му да се <strong>извини!</strong> Харесай и сподели в социалните мрежи:</p>
+							</div>
+							<div id="social_button_wrap">
+								<div id="fb_btn">
+									<div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+								</div>
+								
+								<div id="tweet_btn">	
+									<a href="https://twitter.com/share" class="twitter-share-button" data-text="Помогни му да се извини!" data-via="Grajdanite" data-related="Grajdanite" data-hashtags="izvinise">Tweet</a>
+									
+								</div>	
+							</div>	
+							<div id="download">
+								<p>Провери <strong>дали си сниман</strong>! Свали приложението:</p>
+							</div>
+							<div id="dln_icons">
+								<a id="apple_dln" href="#"><img src="images/apple-store-download-button.png"></a>
+								<a id="android_dln" href="#"><img src="images/play-store-download-button.png"></a>
+							</div>	
+						</div>
+					</article>
+				</div>
+			</section>
