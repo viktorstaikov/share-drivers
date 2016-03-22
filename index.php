@@ -14,7 +14,6 @@ function console_log( $data ){
     $url = 'https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=' . $driverId;
 
     $json = file_get_contents($url);
-    console_log($json);
     $obj = json_decode($json);
     $driver = $obj[0];
 ?>
@@ -70,7 +69,7 @@ function console_log( $data ){
         <div>
             <section id="banner" class="wrapper style1">
                 <div class="inner">
-                    <article class="feature left">
+                    <article class="feature left noapology">
                         <div class="image relative">
                             <img id="viralPic" src=<?php echo $driver->Picture; ?> data-responsive="true">
                             <div class="absolute img_descr">
@@ -116,6 +115,10 @@ function console_log( $data ){
                             <div class="absolute user_comment">
                                 <p><i class="fa fa-quote-right fa-2x"></i> <span><?php echo $driver->Title; ?></span> <i class="fa fa-quote-left fa-2x"></i></p>
                             </div>
+
+                            <div class="apology" style="display:none;">
+                                <p>Здравейте Граждани :) Водачът е изпратил лично извинение през приложението "Гражданите" и качилият снимката го е приел. Заради това снимката е скрита.</p>
+                            </div>
                         </div>
                         <div class="content">
                             <p id="narusheniq">Извършени нарушения:</p>
@@ -142,9 +145,6 @@ function console_log( $data ){
 							</div>-->
                             <div id="izvini-se">
                                 <p>Помогни му да се <strong>извини!</strong> Харесай и сподели в социалните мрежи:</p>
-                            </div>
-                            <div id="izvinil-se-e" style="display:none;">
-                                <p>Гражданинът се е <strong>изнивил</strong> и извинението е прието.</p>
                             </div>
                             <div id="social_button_wrap">
                                 <div id="fb_btn">
