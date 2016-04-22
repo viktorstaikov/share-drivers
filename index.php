@@ -69,7 +69,7 @@ function console_log( $data ){
         <div>
             <section id="banner" class="wrapper style1">
                 <div class="inner">
-                    <article class="feature left noapology">
+                    <article class="feature left noapology relative">
                         <div class="image relative">
                             <img id="viralPic" src=<?php echo $driver->Picture; ?> data-responsive="true">
                             <div class="absolute img_descr">
@@ -113,14 +113,22 @@ function console_log( $data ){
                                 </div>
                             </div>
                             <div class="absolute user_comment">
-                                <p><i class="fa fa-quote-right fa-2x"></i> <span><?php echo $driver->Title; ?></span> <i class="fa fa-quote-left fa-2x"></i></p>
+                                <p class="comment_line"><i class="fa fa-quote-right fa-2x"></i> <span><?php echo $driver->Title; ?></span> <i class="fa fa-quote-left fa-2x"></i><div id="social_button_wrap">
+                                <div id="fb_btn">
+                                    <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                                </div>
+
+                                <div id="tweet_btn">
+                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Помогни му да се извини!" data-via="Grajdanite" data-related="Grajdanite" data-hashtags="izvinise">Tweet</a>
+                                </div>
+                            </div></p>
                             </div>
 
                             <div class="apology" style="display:none;">
                                 <p>Здравейте Граждани :) Водачът е изпратил лично извинение през приложението "Гражданите" и качилият снимката го е приел. Заради това снимката е скрита.</p>
                             </div>
                         </div>
-                        <div class="content">
+                        <div class="content relative">
                             <p id="narusheniq">Извършени нарушения:</p>
                             <ul>
                                 <?php
@@ -143,26 +151,18 @@ function console_log( $data ){
 									<li id="five" class="lautsprecher"><a href="#" title="5 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
 								</ul>
 							</div>-->
-                            <div id="izvini-se">
-                                <p>Помогни му да се <strong>извини!</strong> Харесай и сподели в социалните мрежи:</p>
-                            </div>
-                            <div id="social_button_wrap">
-                                <div id="fb_btn">
-                                    <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
-                                </div>
-
-                                <div id="tweet_btn">
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Помогни му да се извини!" data-via="Grajdanite" data-related="Grajdanite" data-hashtags="izvinise">Tweet</a>
-                                </div>
-                            </div>
+                            
                             <div id="download">
-                                <p>Провери <strong>дали си сниман</strong>! Свали приложението:</p>
+                                <p><strong>Свали "Гражданите" <br>на телефона си:</strong></p>
                             </div>
                             <div id="dln_icons">
                                 <a id="apple_dln" href="https://itunes.apple.com/app/id930663841"><img src="images/apple-store-download-button.png"></a>
                                 <a id="android_dln" href="https://play.google.com/store/apps/details?id=com.xevica.grajdanite&hl=bg"><img src="images/play-store-download-button.png"></a>
                             </div>
                         </div>
+
+                        <img class="absolute" id="img_dln_app" src="images/image_phone.png">
+                        
                     </article>
                 </div>
             </section>

@@ -22,7 +22,7 @@
 		line-height: 1;
 	}
 
-	ol, ul {
+	ol, ul { 
 		list-style: none;
 	}
 
@@ -48,6 +48,12 @@
 	}
 	.relative {
 		position: relative !important;
+	}
+	#img_dln_app {
+		bottom: 0 !important;
+		margin-top: 0 !important;
+		right: 0;
+		width: 200px;
 	}
 /* Box Model */
 
@@ -4291,7 +4297,7 @@ div#izvini-se > p {
 	margin-bottom: 0.6em;
 }
 div#social_button_wrap {
-	float: left;
+	float: right;
 }
 div.fb-like, a.twitter-share-button {
 	
@@ -4309,7 +4315,7 @@ div#tweet_btn {
 div.comments_wrap {
 	background: #fff;
 	position: relative;
-	width: 100%;
+	width: 70%;
 	min-height: 500px;
 	border-radius: 3px;
 	padding: 2em;
@@ -4334,7 +4340,6 @@ div#viral_steps {
 	margin-top: -23%;
 }
 div#download {
-	float: left;
 	margin-top: 2em;
 }
 div#download > p {
@@ -4348,14 +4353,16 @@ p#narusheniq {
 	margin-bottom: 0.6em;
 }
 div#dln_icons {
-	float: left;
 	margin-top: 8px;
 }
 div#dln_icons > a > img {
 	width: 100px;
 }
 a#android_dln {
-	margin-left: 7px;
+	display: block;
+}
+.comment_line {
+	float: left;
 }
 /* ==============================
    Footer
@@ -4439,10 +4446,7 @@ a#android_dln {
 .copyright > strong {
 	color: #000;
 }
-img.absolute {
-	top: 0;
-	margin-top: -20px;
-}
+
 @media only screen and (max-width: 992px) {
 		#footer .col-sm-12, #footer .col-xs-12, #footer .col-sm-6, #footer .col-xs-6 {
 	     text-align: center !important;
@@ -4450,11 +4454,7 @@ img.absolute {
 		#footer .col-sm-12, #footer .col-xs-12 {
 			margin-top: 25px;
 		}
-               img.absolute {
-                        margin-top: -55px;
-                        left: 50%;
-                        margin-left: -24px;
-                }
+               
 }
 .bg-gray{
 	background-color: #f4f4f4;

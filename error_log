@@ -1,0 +1,1026 @@
+[19-Mar-2016 07:48:57 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[19-Mar-2016 09:34:32 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[19-Mar-2016 18:18:48 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[19-Mar-2016 18:43:20 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[20-Mar-2016 08:45:55 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 09:37:54 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 09:42:43 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 10:36:28 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 15:25:07 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 18:23:54 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 20:01:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3fc20790-ee90-11e5-8470-e98eeed04f06): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[20-Mar-2016 20:01:47 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[20-Mar-2016 21:03:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 22:18:58 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[20-Mar-2016 23:14:43 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 08:02:45 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 08:02:45 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 08:18:08 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 09:04:54 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 11:17:51 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 13:50:13 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 14:01:33 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 14:01:33 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 14:13:10 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 14:13:10 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 14:13:10 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 14:16:26 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 14:16:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 14:16:26 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 14:33:33 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[21-Mar-2016 14:37:19 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[21-Mar-2016 20:01:36 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[21-Mar-2016 20:01:36 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[21-Mar-2016 23:58:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 01:36:17 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:14 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:15 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:15 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:15 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:15 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:17 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:18 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:18 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:18 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:18 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:18 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:20 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:22 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:22 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:25 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:25 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:26 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:27 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:27 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:27 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:27 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[22-Mar-2016 06:44:28 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:29 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[22-Mar-2016 06:44:29 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:29 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:29 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:30 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 10
+[22-Mar-2016 06:44:30 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:31 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 06:44:33 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:36 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:36 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:36 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:38 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:39 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:41 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 06:44:41 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 09:00:32 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/grajzhds/public_html/share-drivers/index.php on line 113
+[22-Mar-2016 09:28:15 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 12
+[22-Mar-2016 14:19:21 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Mar-2016 14:19:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Mar-2016 20:02:53 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 01:39:37 Europe/Sofia] PHP Warning:  file_get_contents(): SSL: crypto enabling timeout in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 01:39:37 Europe/Sofia] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 01:39:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: operation failed in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 10:11:48 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[23-Mar-2016 12:44:15 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[23-Mar-2016 14:15:11 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 14:15:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 14:17:41 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 14:17:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[23-Mar-2016 18:25:52 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[23-Mar-2016 20:39:26 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[24-Mar-2016 14:13:13 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[24-Mar-2016 14:13:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[24-Mar-2016 19:23:52 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[26-Mar-2016 14:01:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:01:38 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:01:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:02:02 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:02:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:02:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:02:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:02:50 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:03:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:03:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:03:20 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:03:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:04:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:04:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:14:35 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:15:20 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:15:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:05 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:05 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:08 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:35 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:16:58 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=f8204250-f338-11e5-b209-852d7c5af091): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:19:27 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:19:27 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:21:41 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 14:21:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 15:30:21 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[26-Mar-2016 17:44:31 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[26-Mar-2016 18:53:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:19 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:20 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:23 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:31 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 18:53:33 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 19:26:47 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[26-Mar-2016 20:01:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:01:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:01:33 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:01:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:01:43 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:01:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:01:51 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:02:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:37:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:37:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:02 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:03 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:05 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=481cf720-f371-11e5-966e-51805556921d): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:10 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 20:38:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 22:08:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[26-Mar-2016 23:35:22 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 08:30:10 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[27-Mar-2016 09:01:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 09:01:32 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 10:33:32 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed!  in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 11:32:43 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[27-Mar-2016 14:02:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:17 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:19 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:19 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:22 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:22 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:25 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:29 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:14:29 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=59235840-f414-11e5-b909-a5651d4ced02): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:19:16 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 15:19:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 17:15:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 17:15:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 17:15:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 17:15:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 17:15:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[27-Mar-2016 21:01:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 08:17:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8f6ed470-e1df-11e5-85dd-25aa22212aa4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 09:40:22 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[28-Mar-2016 11:53:36 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 14:40:59 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[28-Mar-2016 15:16:21 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 15:16:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 15:17:00 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 15:17:00 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 15:26:15 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 15:26:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 21:01:45 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:49 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:50 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:35:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:36:00 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:36:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[28-Mar-2016 23:36:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 09:17:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[29-Mar-2016 09:43:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 09:43:36 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 09:43:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 09:43:51 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:07:19 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:46:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:48:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:48:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:48:44 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:48:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:49:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:49:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 11:49:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:11 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:13 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:44 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:44 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=fd95e1b0-f5a7-11e5-8701-c3dc38a691b4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:44 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:44 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=fd95e1b0-f5a7-11e5-8701-c3dc38a691b4): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:50 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:16:50 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:17:18 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:17:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:17:38 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 15:17:38 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 20:07:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 21:16:15 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 21:16:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 23:56:16 Europe/Sofia] PHP Warning:  file_get_contents(): SSL: crypto enabling timeout in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 23:56:16 Europe/Sofia] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[29-Mar-2016 23:56:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: operation failed in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 03:01:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 03:21:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 11:57:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 14:40:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:13:09 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:13:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b1cde6e0-f4b4-11e5-b79e-7b5deb4ec920): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:13:17 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:13:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b1cde6e0-f4b4-11e5-b79e-7b5deb4ec920): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:14:47 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:14:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=8bf3dec0-f257-11e5-bb90-cd26092a8e99): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:41:39 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 15:41:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[30-Mar-2016 19:58:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 01:47:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 02:07:51 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 03:28:27 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 04:46:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:19:10 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:19:10 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:29:43 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:29:43 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b1cde6e0-f4b4-11e5-b79e-7b5deb4ec920): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:39:32 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:48:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 15:53:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 20:06:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[31-Mar-2016 20:56:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 02:23:10 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 03:38:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 09:57:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 10:49:55 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 10:50:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 12:45:34 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 14:09:35 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=f66aba40-f742-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 14:11:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 14:14:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 14:42:43 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ab69b4e0-f73f-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 14:56:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 15:07:55 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=791e78e0-ceff-11e4-bef3-8f5dc4372059): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 15:31:56 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=791e78e0-ceff-11e4-bef3-8f5dc4372059): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:16:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:23:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:23:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=a30988a0-f755-11e5-a491-83b0505f2756): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:39:31 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:42:23 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:45:55 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=eff793b0-f7d6-11e5-9cf3-0503305b7885): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 16:55:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 17:06:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 17:12:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=e285e9f0-e532-11e4-960e-cdbda4a4b54d): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 17:18:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=e285e9f0-e532-11e4-960e-cdbda4a4b54d): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 17:25:02 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 17:42:29 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 18:14:10 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 18:19:27 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 18:24:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 18:32:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=e6cee350-f818-11e5-8cbb-f15a46b5396f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 18:35:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=e285e9f0-e532-11e4-960e-cdbda4a4b54d): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 18:37:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=eff793b0-f7d6-11e5-9cf3-0503305b7885): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 19:02:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=e285e9f0-e532-11e4-960e-cdbda4a4b54d): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 19:06:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 19:13:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 19:22:40 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=a7c42ec0-f68a-11e5-8a71-8b155562ac2a): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 19:28:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 19:32:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 20:09:45 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 20:14:53 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 20:14:55 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 20:17:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 20:26:51 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=791e78e0-ceff-11e4-bef3-8f5dc4372059): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 20:54:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 21:15:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 22:10:03 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 22:48:42 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 22:56:33 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 23:17:55 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 23:25:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 23:37:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=a30988a0-f755-11e5-a491-83b0505f2756): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 23:57:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[01-Apr-2016 23:59:58 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:21:29 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:22:31 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:23:00 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=e6cee350-f818-11e5-8cbb-f15a46b5396f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:29:19 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b1cde6e0-f4b4-11e5-b79e-7b5deb4ec920): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:36:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ac61d180-f734-11e5-aede-39aecde1bac3): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:36:42 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=791e78e0-ceff-11e4-bef3-8f5dc4372059): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 00:39:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=447435e0-f810-11e5-a6f7-1bd89e5c4e32): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 04:10:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 07:31:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 07:50:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 10:03:19 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 11:58:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 13:09:34 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:37 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:37 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:37 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:37 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:37 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:38 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:38 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:38 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:38 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:38 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[02-Apr-2016 13:09:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 16:25:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 16:26:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 16:39:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[02-Apr-2016 21:01:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[03-Apr-2016 00:03:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[03-Apr-2016 07:04:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=625bdd90-f8a8-11e5-9662-1b0c7d947805): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[03-Apr-2016 07:23:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[03-Apr-2016 19:37:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b1cde6e0-f4b4-11e5-b79e-7b5deb4ec920): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[03-Apr-2016 21:09:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 03:02:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 13:59:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3b81d730-fa54-11e5-82dd-6ba68f4f7feb): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 14:03:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 14:45:35 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[04-Apr-2016 14:45:59 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[04-Apr-2016 14:46:04 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[04-Apr-2016 14:49:44 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=04b80ba0-f8f3-11e5-aa4e-bdb572fe79a0): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 15:01:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=dac84330-f9c1-11e5-a7f3-615fcc2da857): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 15:08:58 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 15:08:58 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=0c2802d0-fa4e-11e5-becc-cf5c63aff266): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[04-Apr-2016 15:24:53 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=cea48c90-fa56-11e5-9bd1-7bf39cb48206): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[06-Apr-2016 07:23:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[06-Apr-2016 11:00:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[06-Apr-2016 13:19:20 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[06-Apr-2016 13:20:42 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[06-Apr-2016 13:20:58 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[06-Apr-2016 17:23:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 02:05:58 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 05:30:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 12:23:02 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=18f06aa0-8499-11e5-980b-dbcda8f0ffcb): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 12:26:49 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3aed9760-e946-11e5-9d1b-61d72dce6ee2): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 12:29:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=c7aaf700-fca2-11e5-9467-b3d4c47c6930): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 17:51:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=c7aaf700-fca2-11e5-9467-b3d4c47c6930): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 18:49:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 19:03:16 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[07-Apr-2016 21:00:38 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=f16a2230-fc86-11e5-add0-cd165f2ef2b9): failed to open stream: Connection timed out in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[07-Apr-2016 21:44:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 08:48:34 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[08-Apr-2016 09:53:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 14:39:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=a403bf80-fcd9-11e5-915d-d5f814f4847f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 15:07:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=f16a2230-fc86-11e5-add0-cd165f2ef2b9): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 15:21:49 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=a403bf80-fcd9-11e5-915d-d5f814f4847f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 15:30:19 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=51f2aa00-fceb-11e5-b292-7542a9157812): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 16:39:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3e3e2940-fd8f-11e5-a75a-811b98512559): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 16:39:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=a1424e50-f190-11e5-b507-e7830528c3fe): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 16:39:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3e3e2940-fd8f-11e5-a75a-811b98512559): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 16:39:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3e3e2940-fd8f-11e5-a75a-811b98512559): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 16:41:49 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3e3e2940-fd8f-11e5-a75a-811b98512559): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 21:13:45 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[08-Apr-2016 21:14:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 11:47:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 12:00:23 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 12:07:23 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 12:37:16 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 13:08:50 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 13:11:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 13:14:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 14:06:34 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[09-Apr-2016 22:10:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 10:10:03 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 11:41:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 12:42:22 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=365b5970-fb2b-11e5-bc99-47ff0b036f92): failed to open stream: Connection timed out in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 12:59:29 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 13:20:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=365b5970-fb2b-11e5-bc99-47ff0b036f92): failed to open stream: Connection timed out in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 13:20:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=365b5970-fb2b-11e5-bc99-47ff0b036f92): failed to open stream: Connection timed out in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 16:16:09 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=365b5970-fb2b-11e5-bc99-47ff0b036f92): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[10-Apr-2016 19:18:19 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[11-Apr-2016 12:27:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[12-Apr-2016 00:28:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[12-Apr-2016 14:41:03 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[12-Apr-2016 16:46:38 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[12-Apr-2016 17:46:22 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[12-Apr-2016 19:07:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[12-Apr-2016 19:07:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[12-Apr-2016 19:13:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[12-Apr-2016 19:21:56 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[13-Apr-2016 11:22:55 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[13-Apr-2016 16:32:29 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[13-Apr-2016 16:32:45 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[13-Apr-2016 16:32:46 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[13-Apr-2016 23:07:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 01:25:43 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 01:25:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 01:25:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 01:26:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 01:26:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 02:06:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 03:34:42 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 10:06:58 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 14:39:06 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[14-Apr-2016 16:19:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[14-Apr-2016 18:24:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[15-Apr-2016 08:41:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[15-Apr-2016 09:26:26 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[15-Apr-2016 13:03:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 03:43:35 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[16-Apr-2016 10:31:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 11:21:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 11:27:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 12:34:00 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 12:34:05 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 15:05:42 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=96cf98d0-fcf6-11e5-b748-a9c26e5808f6): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 15:05:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=96cf98d0-fcf6-11e5-b748-a9c26e5808f6): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 15:06:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=96cf98d0-fcf6-11e5-b748-a9c26e5808f6): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[16-Apr-2016 15:07:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=96cf98d0-fcf6-11e5-b748-a9c26e5808f6): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[17-Apr-2016 03:04:27 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=96cf98d0-fcf6-11e5-b748-a9c26e5808f6): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[17-Apr-2016 04:25:49 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[17-Apr-2016 09:42:56 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[17-Apr-2016 14:53:45 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[17-Apr-2016 20:16:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 05:32:11 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[18-Apr-2016 15:08:44 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:09:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:09:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:11:22 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:13:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:20:17 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:21:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:25:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:30:44 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:30:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:30:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=dd517870-052d-11e6-9204-9bb50db9bc11): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 15:31:22 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 16:18:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 16:23:35 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[18-Apr-2016 19:20:52 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[18-Apr-2016 21:01:40 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 02:34:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 03:22:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:13:07 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:13:07 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=bcfdc3a0-0562-11e6-b228-cf247ce698fc): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:14:51 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:14:51 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=508b7b90-0580-11e6-be7e-6bb3e3f21b8a): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:46:43 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=96cf98d0-fcf6-11e5-b748-a9c26e5808f6): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:48:33 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=2d59acb0-f1e3-11e5-84f5-532118760964): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:50:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ed50c6b0-fb44-11e5-bdef-ad3f8f8c7c79): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 15:52:00 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=88a34d50-fd51-11e5-adfb-6dda76dee30d): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 16:12:05 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=508b7b90-0580-11e6-be7e-6bb3e3f21b8a): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 17:08:41 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=00c1e680-f8d8-11e5-8198-bb3ca16769c4): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 17:13:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 18:11:24 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=508b7b90-0580-11e6-be7e-6bb3e3f21b8a): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 18:13:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=ee7c12b0-0639-11e6-9812-2b6b12543520): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 18:16:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=bcfdc3a0-0562-11e6-b228-cf247ce698fc): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 18:28:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[19-Apr-2016 22:08:36 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[20-Apr-2016 11:55:30 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[20-Apr-2016 15:21:24 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[20-Apr-2016 15:21:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=bcfdc3a0-0562-11e6-b228-cf247ce698fc): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[20-Apr-2016 22:48:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[20-Apr-2016 22:49:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[20-Apr-2016 23:02:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[20-Apr-2016 23:49:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 08:43:53 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 10:42:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 10:44:59 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 10:55:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=fc0ddee0-077e-11e6-a6d3-eb34fcbcad28): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 10:59:28 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 11:03:08 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 11:03:51 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 11:06:35 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 11:07:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3bacc970-0726-11e6-87e2-ef17f0235b1e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 11:07:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3bacc970-0726-11e6-87e2-ef17f0235b1e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 13:09:26 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=3bacc970-0726-11e6-87e2-ef17f0235b1e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 15:14:15 Europe/Sofia] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 15:14:15 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:22:25 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:22:27 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=0094e040-07c4-11e6-86c8-37fa0e993fa2): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:22:40 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:23:48 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:25:14 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:27:02 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:43:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 16:43:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 18:44:20 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 20:03:50 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 21:01:39 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=67c24c10-06db-11e6-9ffb-f318ab4a2694): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 21:53:56 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[21-Apr-2016 22:12:35 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 08:09:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 11:27:47 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:38 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:39 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:40 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:41 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:42 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:43 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:43 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:43 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:44 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:45 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/grajzhds/public_html/share-drivers/index.php on line 18
+[22-Apr-2016 12:06:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:52 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:53 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:06:54 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:01 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:04 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:05 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:06 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:11 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 12:07:13 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 14:32:57 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=53ce7f40-f2c1-11e5-b3b8-59dd43adee60): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 15:11:37 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b46c1630-07e0-11e6-8c5d-dd345783c9c7): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 15:51:18 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=7bbf7190-0887-11e6-ab61-4d0f3e7c046e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 15:58:36 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=7bbf7190-0887-11e6-ab61-4d0f3e7c046e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 16:08:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=29dab550-81cf-11e4-9ba9-99998a16722a): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 16:08:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=b6f51830-6fbf-11e4-a8fe-c758ae357377): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 16:09:40 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=7bbf7190-0887-11e6-ab61-4d0f3e7c046e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 16:18:40 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=7bbf7190-0887-11e6-ab61-4d0f3e7c046e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 16:26:21 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 16:26:34 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 17:12:46 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=54493b30-0712-11e6-a741-edc072d5713f): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 17:25:12 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=7bbf7190-0887-11e6-ab61-4d0f3e7c046e): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 17:36:32 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
+[22-Apr-2016 19:04:38 Europe/Sofia] PHP Warning:  file_get_contents(https://platform.telerik.com/bs-api/v1/EgXwDq7GEgueXESK/Functions/GetDriverById?driverId=0094e040-07c4-11e6-86c8-37fa0e993fa2): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/grajzhds/public_html/share-drivers/index.php on line 16
