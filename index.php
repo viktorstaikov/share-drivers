@@ -30,10 +30,19 @@ function console_log( $data ){
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 
+        <!-- Facebook meta tags -->
         <meta name="og:image" content="<?php echo $driver->Picture; ?>" />
         <meta name="og:title" content="<?php echo $driver->Title; ?>" />
-        <meta name="og:description" content="Споделете тази снимка в социалните мрежи и помогнете на нарушителя да се извини! Свалете приложението и чрез опциите " търсене по регистрационен номер " и "радар " проверете дали вие или ваш познат сте снимани в галерията на 'Гражданите'!"/>
+        <meta name="og:description" content='Споделете тази снимка в социалните мрежи и помогнете на нарушителя да се извини! Свалете приложението и чрез опциите "търсене по регистрационен номер" и "радар" проверете дали вие или ваш познат сте снимани в галерията на "Гражданите"!'/>
         <meta property="og:image" content="<?php echo $driver->Picture; ?>" />
+        
+        <!-- Twitter meta tags -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@Grajdanite" />
+        <meta name="twitter:title" content="<?php echo $driver->Title; ?>" />
+        <meta name="twitter:description" content='Споделете тази снимка в социалните мрежи и помогнете на нарушителя да се извини! Свалете приложението и чрез опциите "търсене по регистрационен номер" и "радар" проверете дали вие или ваш познат сте снимани в галерията на "Гражданите"!' />
+        <meta name="twitter:image" content="<?php echo $driver->Title; ?>" />        
+
         <!-- Favicons -->
         <link rel="shortcut icon" href="images/icon-40.png">
         <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
