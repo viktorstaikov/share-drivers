@@ -75,114 +75,141 @@ function console_log( $data ){
 
         <!-- Banner -->
 
-        <div>
+        <div class="container-fluid no-pad">
             <section id="banner" class="wrapper style1">
-                <div class="inner">
-                    <article class="feature left noapology relative">
-                        <div class="image relative">
-                            <img id="viralPic" src=<?php echo $driver->Picture; ?> data-responsive="true">
-                            <div class="absolute img_descr">
-                                <div class="reg_nr">
-                                    <?php echo $driver->LicensePlate ?>
-                                </div>
-                                <div class="img_clock">
-                                    <i class="fa fa-clock-o"></i><span>
-                                    <?php
-                                    $t = strtotime($driver->CreatedAt);
-                                    echo date('M d, y h:m a',$t); 
-                                    ?>
-                                    </span>
-                                </div>
-                                <div class="img_report">
-                                    <i class="fa fa-bullhorn"></i><span>
-                                    <?php
-                                        if(isset($driver->Rating))
-                                        {
-                                            echo $driver->Rating;
-                                        }
-                                        else
-                                        {
-                                            echo 0;
-                                        }
-                                    ?>
-                                    </span>
-                                </div>
-                                <div class="img_views">
-                                    <i class="fa fa-eye"></i><span>
-                                    <?php
-                                        if(isset($driver->ViewCounter))
-                                        {
-                                            echo $driver->ViewCounter;
-                                        }
-                                        else
-                                        {
-                                            echo 0;
-                                        }
-                                    ?></span>
-                                </div>
-                            </div>
-                            <div class="absolute user_comment">
-                                <p class="comment_line"><i class="fa fa-quote-right fa-2x"></i> <span><?php echo $driver->Title; ?></span> <i class="fa fa-quote-left fa-2x"></i><div id="social_button_wrap">
-                                <div id="fb_btn">
-                                    <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
-                                </div>
+            	<div class="row">
+	                <div class="col-md-1 col-md-125 col-sm-12 col-xs-12 no-pad">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Grajdanite_1 -->
+						<ins class="adsbygoogle"
+							style="display:block"
+							data-ad-client="ca-pub-9594508943148794"
+							data-ad-slot="3362470262"
+							data-ad-format="auto">
+						</ins>
+						<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+		        	</div>
 
-                                <div id="tweet_btn">
-                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Помогни му да се извини!" data-via="Grajdanite" data-related="Grajdanite" data-hashtags="izvinise">Tweet</a>
-                                </div>
-                            </div></p>
-                            </div>
+	                <div class="inner col-md-10 col-md-75 col-sm-12 col-xs-12 no-pad">
+	                    <article class="feature left noapology relative">
+	                        <div class="image relative">
+	                            <img id="viralPic" src=<?php echo $driver->Picture; ?> data-responsive="true">
+	                            <div class="absolute img_descr">
+	                                <div class="reg_nr">
+	                                    <?php echo $driver->LicensePlate ?>
+	                                </div>
+	                                <div class="img_clock">
+	                                    <i class="fa fa-clock-o"></i><span>
+	                                    <?php
+	                                    $t = strtotime($driver->CreatedAt);
+	                                    echo date('M d, y h:m a',$t); 
+	                                    ?>
+	                                    </span>
+	                                </div>
+	                                <div class="img_report">
+	                                    <i class="fa fa-bullhorn"></i><span>
+	                                    <?php
+	                                        if(isset($driver->Rating))
+	                                        {
+	                                            echo $driver->Rating;
+	                                        }
+	                                        else
+	                                        {
+	                                            echo 0;
+	                                        }
+	                                    ?>
+	                                    </span>
+	                                </div>
+	                                <div class="img_views">
+	                                    <i class="fa fa-eye"></i><span>
+	                                    <?php
+	                                        if(isset($driver->ViewCounter))
+	                                        {
+	                                            echo $driver->ViewCounter;
+	                                        }
+	                                        else
+	                                        {
+	                                            echo 0;
+	                                        }
+	                                    ?></span>
+	                                </div>
+	                            </div>
+	                            <div class="absolute user_comment">
+	                                <p class="comment_line"><i class="fa fa-quote-right fa-2x"></i> <span><?php echo $driver->Title; ?></span> <i class="fa fa-quote-left fa-2x"></i><div id="social_button_wrap">
+	                                <div id="fb_btn">
+	                                    <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+	                                </div>
+	                                <div id="tweet_btn">
+	                                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Помогни му да се извини!" data-via="Grajdanite" data-related="Grajdanite" data-hashtags="izvinise">Tweet</a>
+	                                </div>
+	                            </div></p>
+	                            </div>
 
-                            <div class="apology" style="display:none;">
-                                <p>Здравейте Граждани :) Водачът е изпратил лично извинение през приложението "Гражданите" и качилият снимката го е приел. Заради това снимката е скрита.</p>
-                            </div>
-                        </div>
-                        <div class="content relative">
-                            <?php 
-                                if (isset($driver->Status) && $driver->Status > 0)
-                                {
-                            ?>
-                            <div class="row reportStatus"><img src="images/reportstatus/<?php echo $driver->Status ?>.png" /></div>
-                            <?php
-                                }
-                            ?>
-
-                            <p id="narusheniq">Извършени нарушения:</p>
-                            <ul>
+	                            <div class="apology" style="display:none;">
+	                                <p>Здравейте Граждани :) Водачът е изпратил лично извинение през приложението "Гражданите" и качилият снимката го е приел. Заради това снимката е скрита.</p>
+	                            </div>
+	                        </div>
+	                        <div class="content relative">
                                 <?php
-                                if(isset($driver->SelectedTags))
-                                {
-                                    foreach ($driver->SelectedTags as $tagName)
+                                    if (isset($driver->Status) && $driver->Status > 0)
                                     {
-                                        echo "<li>$tagName</li>";
-                                    }
-                                }
                                 ?>
-                            </ul>
-                            <!--<div id="oceni">
-								<p>Оцени:</p>
-								<ul class="rating nostar">
-									<li id="one" class="lautsprecher"><a href="#" title="1 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
-									<li id="two" class="lautsprecher"><a href="#" title="2 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
-									<li id="three" class="lautsprecher"><a href="#" title="3 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
-									<li id="four" class="lautsprecher"><a href="#" title="4 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
-									<li id="five" class="lautsprecher"><a href="#" title="5 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
-								</ul>
-							</div>-->
-                            
-                            <div id="download">
-                                <p><strong>Свали "Гражданите" <br>на телефона си:</strong></p>
-                            </div>
-                            <div id="dln_icons">
-                                <a id="apple_dln" href="https://itunes.apple.com/app/id930663841"><img src="images/apple-store-download-button.png"></a>
-                                <a id="android_dln" href="https://play.google.com/store/apps/details?id=com.xevica.grajdanite&hl=bg"><img src="images/play-store-download-button.png"></a>
-                            </div>
-                        </div>
+                                <div class="row reportStatus"><img src="images/reportstatus/<?php echo $driver->Status ?>.png" /></div>
+                                <?php
+                                    }
+                                ?>
 
-                        <img class="absolute" id="img_dln_app" src="images/image_phone.png">
-                        
-                    </article>
-                </div>
+	                            <p id="narusheniq">Извършени нарушения:</p>
+	                            <ul>
+	                                <?php
+	                                if(isset($driver->SelectedTags))
+	                                {
+	                                    foreach ($driver->SelectedTags as $tagName)
+	                                    {
+	                                        echo "<li>$tagName</li>";
+	                                    }
+	                                }
+	                                ?>
+	                            </ul>
+	                            <!--<div id="oceni">
+									<p>Оцени:</p>
+									<ul class="rating nostar">
+										<li id="one" class="lautsprecher"><a href="#" title="1 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+										<li id="two" class="lautsprecher"><a href="#" title="2 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+										<li id="three" class="lautsprecher"><a href="#" title="3 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+										<li id="four" class="lautsprecher"><a href="#" title="4 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+										<li id="five" class="lautsprecher"><a href="#" title="5 Рейтинг"><i class="fa fa-bullhorn"></i></a></li>
+									</ul>
+								</div>-->
+	                            
+	                            <div id="download">
+	                                <p><strong>Свали "Гражданите" <br>на телефона си:</strong></p>
+	                            </div>
+	                            <div id="dln_icons">
+	                                <a id="apple_dln" href="https://itunes.apple.com/app/id930663841"><img src="images/apple-store-download-button.png"></a>
+	                                <a id="android_dln" href="https://play.google.com/store/apps/details?id=com.xevica.grajdanite&hl=bg"><img src="images/play-store-download-button.png"></a>
+	                            </div>
+	                        </div>
+
+	                        <img class="absolute" id="img_dln_app" src="images/image_phone.png">
+	                        
+	                    </article>
+	                </div>
+	                <div class="col-md-1 col-md-125 col-sm-12 col-xs-12 no-pad">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Grajdanite_2 -->
+						<ins class="adsbygoogle"
+						     style="display:block"
+						     data-ad-client="ca-pub-9594508943148794"
+						     data-ad-slot="5059529466"
+						     data-ad-format="auto"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+	            	</div>
+	            </div>
             </section>
         </div>
         <!-- Steps -->
@@ -190,8 +217,10 @@ function console_log( $data ){
 
 
         <!-- One -->
+        <div class="container-fluid no-pad">
         <section id="one" class="wrapper style1">
-            <div class="inner">
+        	<div class="row">
+            <div class="inner col-md-10 col-md-offset-1">
                 <div id="viral_steps" class="">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-6">
@@ -215,7 +244,9 @@ function console_log( $data ){
                     </script>
                 </div>
             </div>
+            </div>
         </section>
+        </div>
 
         <!-- Footer -->
 
