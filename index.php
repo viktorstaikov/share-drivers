@@ -53,7 +53,7 @@ function console_log( $data ){
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script>
             window.driver = <?php echo json_encode($driver); ?>; //Don't forget the extra semicolon!
-            console.log(window.driver);
+            // console.log(window.driver);
         </script>
     </head>
 
@@ -138,6 +138,15 @@ function console_log( $data ){
                             </div>
                         </div>
                         <div class="content relative">
+                            <?php 
+                                if (isset($driver->Status) && $driver->Status > 0)
+                                {
+                            ?>
+                            <div class="row reportStatus"><img src="images/reportstatus/<?php echo $driver->Status ?>.png" /></div>
+                            <?php
+                                }
+                            ?>
+
                             <p id="narusheniq">Извършени нарушения:</p>
                             <ul>
                                 <?php
