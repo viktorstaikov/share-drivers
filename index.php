@@ -55,6 +55,13 @@ function console_log( $data ){
             window.driver = <?php echo json_encode($driver); ?>; //Don't forget the extra semicolon!
             // console.log(window.driver);
         </script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-9594508943148794",
+            enable_page_level_ads: true
+            });
+        </script>
     </head>
 
     <body class="landing">
